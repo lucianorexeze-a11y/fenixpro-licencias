@@ -1,0 +1,10 @@
+{
+  "version": "1.0.1",
+  "url": "https://github.com/lucianorexeze-a11y/fenixpro-licencias/releases/download/v1.0.1/FenixPro-Setup-1.0.1.exe",
+  "sha256": "a7193fb4bdaa5198411baaaf46361de4a29d032a302094f40f507d314ad29749",
+  "size": 34446756,
+  "notes": "• Música: se arregló el problema de la velocidad y el sonido raro.\n• Chat flotante de Kick: nueva opción \"Mantener la ventana siempre abierta\" para que se vea encima de juegos y otros programas, y se vuelve a abrir sola si se cierra.\n• Escenas: ahora podés agregar videos (con o sin sonido, en bucle o una sola vez), imágenes, GIFs y textos propios, además de los widgets.\n• Escenas: botón \"Probar una alerta\" para ver cómo queda mientras diseñás, y ya no se deforman si OBS no está en 16:9.\n• Puntos del canal de Kick: nuevo evento \"Canje de puntos (Kick)\" para que cada recompensa active sonidos, videos, alertas o acciones de Minecraft.\n• Alertas de Kick: nueva alerta para los canjes de puntos.\n• Actualizaciones automáticas: desde esta versión FenixPro te avisa cuando hay una versión nueva y se instala con un toque, sin perder tu configuración.",
+  "mandatory": true,
+  "date": 1795817533010,
+  "sig": "XyAZpuPFhCUefzhbh_pu13l6MRASllycRb5HNwWQN5qSoAifZ_dw-J3yZk9Gt7CVTs3Nzde5AMBcwrmkbUatCQ"
+}
