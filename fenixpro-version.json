@@ -5,6 +5,6 @@
   "size": 34446756,
   "notes": "• Música: se arregló el problema de la velocidad y el sonido raro.\n• Chat flotante de Kick: nueva opción \"Mantener la ventana siempre abierta\" para que se vea encima de juegos y otros programas, y se vuelve a abrir sola si se cierra.\n• Escenas: ahora podés agregar videos (con o sin sonido, en bucle o una sola vez), imágenes, GIFs y textos propios, además de los widgets.\n• Escenas: botón \"Probar una alerta\" para ver cómo queda mientras diseñás, y ya no se deforman si OBS no está en 16:9.\n• Puntos del canal de Kick: nuevo evento \"Canje de puntos (Kick)\" para que cada recompensa active sonidos, videos, alertas o acciones de Minecraft.\n• Alertas de Kick: nueva alerta para los canjes de puntos.\n• Actualizaciones automáticas: desde esta versión FenixPro te avisa cuando hay una versión nueva y se instala con un toque, sin perder tu configuración.",
   "mandatory": true,
-  "date": 1795817575678,
-  "sig": "QHQgHCt_cu42RGEnnFlxP2os2VBDrphyNgkQyO5CvSbcmaHFZLp05yxI8BdAGAF5KmHhRIyorsr8Rp4_C1CYBA"
+  "date": 1795817681822,
+  "sig": "ldmK06qQrUZyjoqNL3__7IuSgjyD9ucQTOqBy-6UwxCmXViIh9t747RLPJ0Oo3WPhMCT8QnXa1P2UcNc0B1pCg"
 }
