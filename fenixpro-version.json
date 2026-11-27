@@ -1,10 +1,10 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/lucianorexeze-a11y/fenixpro-licencias/releases/download/v1.0.1/FenixPro-Setup-1.0.1.exe",
-  "sha256": "a7193fb4bdaa5198411baaaf46361de4a29d032a302094f40f507d314ad29749",
-  "size": 34446756,
-  "notes": "• Música: se arregló el problema de la velocidad y el sonido raro.\n• Chat flotante de Kick: nueva opción \"Mantener la ventana siempre abierta\" para que se vea encima de juegos y otros programas, y se vuelve a abrir sola si se cierra.\n• Escenas: ahora podés agregar videos (con o sin sonido, en bucle o una sola vez), imágenes, GIFs y textos propios, además de los widgets.\n• Escenas: botón \"Probar una alerta\" para ver cómo queda mientras diseñás, y ya no se deforman si OBS no está en 16:9.\n• Puntos del canal de Kick: nuevo evento \"Canje de puntos (Kick)\" para que cada recompensa active sonidos, videos, alertas o acciones de Minecraft.\n• Alertas de Kick: nueva alerta para los canjes de puntos.\n• Actualizaciones automáticas: desde esta versión FenixPro te avisa cuando hay una versión nueva y se instala con un toque, sin perder tu configuración.",
+  "version": "1.0.2",
+  "url": "https://github.com/lucianorexeze-a11y/fenixpro-licencias/releases/download/v1.0.2/FenixPro-Setup-1.0.2.exe",
+  "sha256": "28c5d6a68994a0b3995c86c48586b7a6ddf2149c99e73b951e069672b04eea5a",
+  "size": 34451690,
+  "notes": "• Canje de puntos (Kick) VERSION VETA\n• Antes solo estaba el disparador en Eventos, sin ruleta ni myinstants. Ahora sí está, en el menú Interacciones para Kick › Puntos del canal.",
   "mandatory": true,
-  "date": 1795817681822,
-  "sig": "ldmK06qQrUZyjoqNL3__7IuSgjyD9ucQTOqBy-6UwxCmXViIh9t747RLPJ0Oo3WPhMCT8QnXa1P2UcNc0B1pCg"
+  "date": 1795820017992,
+  "sig": "BG115I8fNVDzqygysYJrbzje2nPGzKp8EgC9re0-mcxtVlm59ODxGKmN5fRiAlYCmjDMHRnTgdhOsT-cwck0Cw"
 }
